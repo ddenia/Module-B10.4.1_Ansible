@@ -2,3 +2,5 @@
 
 ```
 ansible-playbook install-docker.yml
+
+ansible-playbook install-mysql.yml
